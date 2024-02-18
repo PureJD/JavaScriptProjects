@@ -4,6 +4,7 @@
 
 # Number Guessing game
 ### - A simple number guessing game in which you attempt to guess a randomly generated number between 1 and 100. Faliure will result in your page being filled will disaproving cats.
+### - This game utilises JS, HTML and CSS. 
 ![Number guessing Game](https://github.com/PureJD/JavaScriptProjects/blob/main/NGG.jpg?raw=true)
 
 
